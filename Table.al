@@ -18,7 +18,6 @@ table 50100 "Student Details"
             DataClassification = ToBeClassified;
 
         }
-        field(3; "Last Name"; Text[50])
         field(3; "Last Namee"; Text[50])
         {
             DataClassification = ToBeClassified;
